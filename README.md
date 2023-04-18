@@ -39,7 +39,7 @@ Hola, soy Manuel Espinoza, especialista en desarrollo web, gracias por su visita
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e88c61aa-1c24-4c05-88b4-3299418b4d72/de55ejj-dae1e2f2-f1c3-4d71-baf4-ae8c81a9990f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4OGM2MWFhLTFjMjQtNGMwNS04OGI0LTMyOTk0MThiNGQ3MlwvZGU1NWVqai1kYWUxZTJmMi1mMWMzLTRkNzEtYmFmNC1hZThjODFhOTk5MGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Hu8OGTvimK8JCq2jIjYWzcSwhMd6-SZbdTcUbXF0TYg" align="center" style="width: 100%" />
+<img src="[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e88c61aa-1c24-4c05-88b4-3299418b4d72/de55ejj-dae1e2f2-f1c3-4d71-baf4-ae8c81a9990f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4OGM2MWFhLTFjMjQtNGMwNS04OGI0LTMyOTk0MThiNGQ3MlwvZGU1NWVqai1kYWUxZTJmMi1mMWMzLTRkNzEtYmFmNC1hZThjODFhOTk5MGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Hu8OGTvimK8JCq2jIjYWzcSwhMd6-SZbdTcUbXF0TYg](https://preview.redd.it/jpa0s2lsfpl51.gif?width=1080&crop=smart&auto=webp&v=enabled&s=6c27a9a26855cd005f8dae412c6d3c77b16a0ff5)" align="center" style="width: 100%" />
 </div>  
 
 
