@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 Hi there! I'm a young enthusiast of web application development. I love learning and challenging my skills to create innovative and efficient solutions. With programming experience and a solid knowledge of FrontEnd technologies like HTML, CSS, JavaScript, PHP, and MySQL, I'm always on the lookout for new opportunities to expand my skills and knowledge in the web development field. I'm a dedicated worker and committed to the projects I participate in, and I always ensure to meet deadlines and quality standards. I'm excited to be part of development teams where I can contribute my experience and work on challenging and exciting projects.
 
-Thanks for checking out my profile! If you want to talk about programming, exchange memes or just shoot the breeze, don't hesitate to hit me up!. Take care, and catch you later!
+Thanks for checking out my profile! If you want to talk about programming, exchange memes or just shoot the breeze, don't hesitate to hit me up! Take care, and catch you later!
   
 
 <br/>  
