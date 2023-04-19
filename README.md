@@ -24,7 +24,17 @@ Thanks for checking out my profile! If you want to talk about programming, excha
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr><td valign="top" width="50%">
+    
+   <div align="center">
+<img src="https://wallpapers.com/images/high/eye-of-cthulhu-terraria-jbz64ewth6u0c7vg.webp" align="center" style="width: 100%" />
+</div>  
+
+
+
+</td><td valign="top" width="50%">
+
 
 - 🔭 Currently developing my degree work  
   
@@ -36,13 +46,6 @@ Thanks for checking out my profile! If you want to talk about programming, excha
   
 
 - ⚡ Fun fact: Gold is the friends we make along the wat, since I've never had it.  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://wallpapers.com/images/high/eye-of-cthulhu-terraria-jbz64ewth6u0c7vg.webp" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
