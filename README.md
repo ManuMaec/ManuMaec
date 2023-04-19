@@ -27,13 +27,13 @@ Hola, soy Manuel Espinoza, especialista en desarrollo web, gracias por su visita
 - 🔭 Currently developing my degree work  
   
 
-- 🌱 Actualmente estoy aprendiendo vue.js  
+- 🌱 Currently learning vue.js  
   
 
-- ☕ Me gusta desarrollar interfaces de usuario.  
+- ☕ I like to develop user interfaces.  
   
 
-- ⚡ Fun fact: Oro son los amigos que hacemos en el camino, ya que nunca lo he conseguido.  
+- ⚡ Fun fact: Gold is the friends we make along the wat, since I've never had it.  
 
 
 </td><td valign="top" width="50%">
